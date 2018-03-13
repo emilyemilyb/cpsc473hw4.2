@@ -1,0 +1,36 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "Toms Order",
+      "emailAddress": "tom@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "B1tEuvk6g"
+    },
+    {
+      "coffee": "John Doe",
+      "emailAddress": "jdoe@bignerdranch.com",
+      "size": "grande",
+      "flavor": "caramel",
+      "strength": "68",
+      "id": "rJJtODyal"
+    },
+    {
+      "coffee": "Decaf",
+      "emailAddress": "decafman@bignerdranch.com",
+      "size": "tall",
+      "flavor": "almond",
+      "strength": "30",
+      "id": "BkuyQVxpe"
+    },
+    {
+      "coffee": "Tayseer Coffee",
+      "emailAddress": "tayseer@bignerdranch.com",
+      "size": "short",
+      "flavor": "almond",
+      "strength": "30",
+      "id": "SyoYEElTe"
+    }
+  ]
+}
